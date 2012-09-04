@@ -1,0 +1,4 @@
+spatialite-installation
+=======================
+
+spatialite installation
